@@ -1,0 +1,104 @@
+department,expense_category,month,amount_inr,trailing_avg_inr
+Admin,Catering & Hospitality,2025-09,165000,44867
+Admin,Catering & Hospitality,2025-10,174300,92900
+Admin,Contractor Payment,2025-08,3390900,1815100
+Admin,Equipment Maintenance,2026-02,1284600,727700
+Admin,Fuel & POL,2025-06,464200,138850
+Admin,Fuel & POL,2025-12,581500,170433
+Admin,IT Services & Software,2025-09,2543031,71900
+Admin,Training & Seminars,2025-07,102200,58067
+Admin,Training & Seminars,2026-02,68100,21267
+Drilling,Catering & Hospitality,2025-06,159400,34750
+Drilling,Equipment Maintenance,2025-09,1063900,499033
+Drilling,Equipment Maintenance,2026-01,1168600,540933
+Drilling,Equipment Maintenance,2026-03,1202200,628667
+Drilling,Fuel & POL,2025-08,724300,267400
+Drilling,Office Supplies,2025-10,28000,5600
+Drilling,Office Supplies,2026-02,25700,5000
+Drilling,Training & Seminars,2025-08,181500,76167
+Drilling,Training & Seminars,2025-12,181400,85233
+Drilling,Travel & Conveyance,2025-08,92300,28667
+Drilling,Utilities,2025-06,420800,76300
+Drilling,Utilities,2026-02,467000,167933
+Finance,Catering & Hospitality,2025-10,170200,24400
+Finance,Contractor Payment,2025-06,3869300,1974200
+Finance,Contractor Payment,2025-09,7211400,2605900
+Finance,Equipment Maintenance,2025-07,1561100,513900
+Finance,Fuel & POL,2025-07,725600,365067
+Finance,IT Services & Software,2025-07,805500,269967
+Finance,IT Services & Software,2025-11,590700,268000
+Finance,Office Supplies,2026-02,37400,9833
+Finance,Training & Seminars,2025-10,142000,72833
+Finance,Travel & Conveyance,2025-10,94300,34667
+Finance,Travel & Conveyance,2026-03,115600,47933
+Finance,Utilities,2026-02,311000,146300
+Hr,Catering & Hospitality,2025-12,176700,42633
+Hr,Contractor Payment,2025-08,5233400,2856667
+Hr,Equipment Maintenance,2025-08,999500,537767
+Hr,Office Supplies,2025-11,43500,13800
+Hr,Training & Seminars,2025-06,151900,29000
+Hr,Training & Seminars,2025-07,144453,69967
+Hr,Travel & Conveyance,2025-07,121800,52967
+Hr,Travel & Conveyance,2026-03,117500,47867
+Hr,Utilities,2025-08,347600,131867
+Hse,Catering & Hospitality,2025-06,143800,48000
+Hse,Catering & Hospitality,2025-07,215103,79933
+Hse,Contractor Payment,2025-07,3938700,1502067
+Hse,Equipment Maintenance,2025-07,1754700,279150
+Hse,Office Supplies,2025-12,30900,11867
+Hse,Travel & Conveyance,2025-08,91800,25850
+Hse,Utilities,2025-12,684700,186833
+It,Contractor Payment,2025-09,4292700,1690350
+It,Contractor Payment,2026-02,5367800,2545200
+It,Fuel & POL,2025-06,639900,267500
+It,Fuel & POL,2026-03,506200,224267
+It,IT Services & Software,2025-07,695900,278833
+It,Office Supplies,2025-09,23600,11933
+It,Training & Seminars,2025-08,199000,71700
+It,Travel & Conveyance,2025-09,69000,25100
+It,Travel & Conveyance,2025-11,76700,38167
+It,Utilities,2025-06,349300,133400
+Logistics,Catering & Hospitality,2026-03,139200,44700
+Logistics,Contractor Payment,2025-07,2658800,1504767
+Logistics,Contractor Payment,2025-09,2651700,1371133
+Logistics,Contractor Payment,2025-11,4339700,1870600
+Logistics,Contractor Payment,2025-12,4267900,2430900
+Logistics,IT Services & Software,2025-10,1551200,493700
+Logistics,IT Services & Software,2026-03,1013900,300867
+Logistics,Travel & Conveyance,2026-01,70200,27300
+Logistics,Utilities,2026-03,371100,106067
+Maintenance,Catering & Hospitality,2025-08,91400,40833
+Maintenance,Catering & Hospitality,2026-02,133300,50567
+Maintenance,Contractor Payment,2025-10,3426500,1129167
+Maintenance,Equipment Maintenance,2025-09,1583200,787767
+Maintenance,Equipment Maintenance,2025-10,2063900,1057933
+Maintenance,Equipment Maintenance,2026-02,2764200,542700
+Maintenance,Fuel & POL,2025-07,485100,61250
+Maintenance,Fuel & POL,2025-12,583000,119200
+Maintenance,IT Services & Software,2025-07,687600,391450
+Maintenance,Training & Seminars,2025-07,114200,54450
+Maintenance,Training & Seminars,2025-08,304039,74367
+Maintenance,Travel & Conveyance,2025-09,71000,34033
+Maintenance,Travel & Conveyance,2025-11,118000,25767
+Maintenance,Utilities,2025-11,384600,109600
+Maintenance,Utilities,2026-01,347100,149067
+Procurement,Catering & Hospitality,2025-10,133100,31133
+Procurement,Contractor Payment,2025-07,2607200,1284000
+Procurement,Equipment Maintenance,2025-09,978300,351667
+Procurement,Equipment Maintenance,2026-03,1017300,465367
+Procurement,IT Services & Software,2026-01,653700,56500
+Procurement,Training & Seminars,2026-01,169100,27533
+Procurement,Utilities,2025-12,340300,111933
+Procurement,Utilities,2026-03,559300,246333
+Production,Contractor Payment,2025-08,2613000,860800
+Production,Equipment Maintenance,2025-06,1828000,911100
+Production,Equipment Maintenance,2025-08,1884200,993000
+Production,Fuel & POL,2025-07,412300,177800
+Production,Fuel & POL,2026-02,654900,112767
+Production,IT Services & Software,2025-10,779500,368567
+Production,Office Supplies,2025-12,26900,15367
+Production,Office Supplies,2026-01,29700,16500
+Production,Training & Seminars,2025-12,204600,79733
+Production,Training & Seminars,2026-02,210100,119433
+Production,Travel & Conveyance,2025-11,71600,9967
+Production,Utilities,2025-12,427500,169433

@@ -1,0 +1,17 @@
+Here's a concise summary:
+
+Key findings on flagged expense data for [PSU Name]:
+
+* Total spend: $378 million
+* Flagged spend: $88 million (23% of total spend)
+* Top departments with flagged expenses:
+ + Admin: $20.5 million
+ + HR: $14.7 million
+ + Production: $11.6 million
+* Departments with highest overspend:
+ + Maintenance: 15 instances, 12 of which exceeded budget
+ + Drilling: 12 instances, 12 of which exceeded budget
+ + Finance: 12 instances, 12 of which exceeded budget
+* Duplicate flagged expenses: 38 occurrences, totaling $7.3 million.
+
+Review these findings to identify areas for further investigation and potential cost savings.
